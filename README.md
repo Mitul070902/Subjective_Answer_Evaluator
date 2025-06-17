@@ -1,4 +1,4 @@
-# CheckMyAnswer
+# Subjective Answer Evaluator
 The evaluation of subjective answers has long been a challenge for educators, employers, and  researchers. CheckMyAnswer, powered by machine learning algorithms, 
 has emerged as a  solution to this challenge.
 
